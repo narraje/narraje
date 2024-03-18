@@ -1,3 +1,4 @@
+https://www.linkedin.com/in/nico-arraje-68039a2bb/
 - Hi, I am Nico Arraje
 - I'm  currently studying Computer Science and Economics
 - My goal is to use computing skills to address complex economic issues and provide economic equity
