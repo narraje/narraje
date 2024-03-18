@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on any projects to strengthen my skills
 - 📫 How to reach me: email at arraje.n@northeastern.edu
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I run track, and I ranked masters on Apex Legends
+- ⚡ Fun fact: I run, and want to walk on to my schools D1 team. I also love video games!
