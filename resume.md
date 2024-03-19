@@ -1,2 +1,4 @@
 Nicholas Arraje
-Northeastern University
+Northeastern University 
+BS Computer Science and Economics
+2027
