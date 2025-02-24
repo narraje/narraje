@@ -1,4 +1,4 @@
-https://www.linkedin.com/in/nico-arraje-68039a2bb/
+https://www.linkedin.com/in/narraje
 
 - Hi, I am Nico Arraje
 - I'm  currently studying Computer Science and Economics
