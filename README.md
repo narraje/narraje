@@ -4,10 +4,10 @@ Welcome to my GitHub. I am passionate about leveraging AI to create software sol
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning advanced machine learning techniques and exploring cloud computing.
+- 🌱 I’m currently learning advanced software development + AI development techniques and exploring cloud computing.
 - 💼 I'm a software developer with a focus on full-stack development.
-- 🎓 I hold a degree in Computer Science and have a strong foundation in algorithms and data structures.
-- 💬 Ask me about web development, Python, JavaScript, and open-source contributions.
+- 🎓 I am currently studying Computer Science and have a strong foundation in Software.
+- 💬 Ask me about anything related to AI or Economics.
 - 📫 How to reach me: [Email](mailto:arraje.n@northeastern.edu) | [LinkedIn](https://www.linkedin.com/in/narraje)
 
 ## 🛠️ Technologies & Tools
