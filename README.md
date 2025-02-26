@@ -8,7 +8,8 @@ Welcome to my GitHub. I am passionate about leveraging AI to create software sol
 - 💼 I'm a software developer with a focus on full-stack development.
 - 🎓 I am currently studying Computer Science and have a strong foundation in Software.
 - 💬 Ask me about anything related to AI or Economics.
-- 📫 How to reach me: [Email](mailto:arraje.n@northeastern.edu) | [LinkedIn](https://www.linkedin.com/in/narraje)
+- 🏃🏻‍♂️ I'm also a competitve runner, specializing in the 800m and 1500m/Mile.
+- 📫 How to reach me: [Email](mailto:arraje.n@northeastern.edu) | [LinkedIn](https://www.linkedin.com/in/nicoarraje/)
 
 ## 🛠️ Technologies & Tools
 
@@ -25,6 +26,6 @@ Welcome to my GitHub. I am passionate about leveraging AI to create software sol
 
 ## 📫 Contact Me
 
-Feel free to reach out to me via [email](mailto:arraje.n@northeaster.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/narraje). I'm always open to new opportunities and collaborations.
+Feel free to reach out to me via [email](mailto:arraje.n@northeaster.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/nicoarraje/). I'm always open to new opportunities and collaborations.
 
 Thanks for visiting my profile!
