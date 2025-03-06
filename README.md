@@ -21,7 +21,7 @@ Welcome to my GitHub. I am passionate about leveraging AI to create software sol
 
 ## 📈 GitHub Stats
 
-![narraje's GitHub stats](https://github-readme-stats.vercel.app/api?username=narraje&show_icons=true&theme=radical)
+![narraje's GitHub stats](https://github-readme-stats.vercel.app/api?username=narraje&show_icons=true&theme=radical&token=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)
 
 
 ## 📫 Contact Me
