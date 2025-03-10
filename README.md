@@ -4,7 +4,7 @@ Welcome to my GitHub. I am passionate about leveraging AI to create software sol
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning advanced software development + AI development techniques and exploring cloud computing.
+- 🌱 I’m currently learning advanced software development + AI development techniques.
 - 💼 I'm a software developer with a focus on full-stack development.
 - 🎓 I am currently studying Computer Science and have a strong foundation in Software.
 - 💬 Ask me about anything related to AI or Economics.
