@@ -20,11 +20,6 @@ Welcome to my GitHub. I am passionate about leveraging AI to create software sol
 - Cloud: AWS, Google Cloud Platform
 - AI Tools: Cursor, Windsurf
 
-## 📈 GitHub Stats
-
-![narraje's GitHub stats](https://github-readme-stats.vercel.app/api?username=narraje&show_icons=true&theme=radical)
-
-
 ## 📫 Contact Me
 
 Feel free to reach out to me via [email](mailto:arraje.n@northeastern.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/nicoarraje/). I'm always open to new opportunities and collaborations.
