@@ -16,7 +16,7 @@ Welcome to my GitHub. I am passionate about leveraging AI to create software sol
 - Programming Languages: Python, JavaScript, TypeScript, Java, C++, Lisp
 - Web Development: HTML, CSS, React, Node.js, Express
 - Databases: MySQL, PostgreSQL, Firebase
-- Tools: Git, Docker, Kubernetes, Firecrawl
+- Tools: Git, Docker, Kubernetes, MCP
 - Cloud: AWS, Google Cloud Platform
 - AI Tools: Cursor, Windsurf
 
