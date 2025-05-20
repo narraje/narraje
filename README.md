@@ -52,7 +52,8 @@ I'm passionate about turning ideas into reality through code. As a Computer Scie
 ## 🚀 Featured Projects
 
 <!-- You can replace these with your actual projects -->
-- **[Trump-Trader]** - An automated market trader that utilizes a headless browser to monitor Donald Trumps truthsocial feed. Posts are reviewed by an LLM and given a market impact score (this targets ETFs) which is then used to calculate a trade using a bankroll. Then through our brokerage api a trade is made. 
+- **[Trump-Trader]** - An automated market trader that utilizes a headless browser to monitor Donald Trumps truthsocial feed. Posts are reviewed by an LLM and given a market impact score (this targets ETFs) which is then used to calculate a trade using a bankroll. Then through our brokerage api a trade is made.
+  
 - I have worked on a lot of other smaller projects for school, and am currently cooking some things up. Additionally, a lot of my projects have come from my work, which is private. 
 
 ## 📊 GitHub Stats
@@ -62,13 +63,10 @@ I'm passionate about turning ideas into reality through code. As a Computer Scie
 
 ## 🌱 Currently Learning
 
-- [Technology or concept you're currently learning]
-- [Technology or concept you're currently learning]
-- [Technology or concept you're currently learning]
+- Sewing a back cinch onto a pair of denim
+- Rust and Go
 
 ## 📫 Contact Me
 
-Feel free to reach out to me via [Email](mailto:YOUR_EMAIL) or connect with me on [LinkedIn](https://www.linkedin.com/in/narraje). I'm always open to new opportunities and collaborations!
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=narraje.narraje)
+Feel free to reach out to me via [Email](mailto:arraje.n@northeastern.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/narraje). I'm always open to new opportunities and collaborations!
 
