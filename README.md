@@ -1,27 +1,16 @@
-# Hi there 👋
-
-Welcome to my GitHub. I am passionate about leveraging AI to create software solutions for complex problems. Here you'll find a variety of projects and contributions that I have worked on. Feel free to explore and connect with me!
-
-## 🚀 About Me
-
-- 🌱 I’m currently learning advanced software development + AI development techniques.
-- 💼 I'm a software developer with a focus on full-stack development.
-- 🎓 I am currently studying Computer Science and have a strong foundation in Software.
-- 💬 Ask me about anything related to AI or Economics.
-- 🏃🏻‍♂️ I'm also a competitve runner, specializing in the 800m and 1500m/Mile.
+- My name is Nico. I am currently studying Computer Science.
+- I innovate, build, and implement. 
 - 📫 How to reach me: [Email](mailto:arraje.n@northeastern.edu) | [LinkedIn](https://www.linkedin.com/in/nicoarraje/)
 
 ## 🛠️ Technologies & Tools
 
-- Programming Languages: Python, JavaScript, TypeScript, Java, C++, Lisp
-- Web Development: HTML, CSS, React, Node.js, Express
-- Databases: MySQL, PostgreSQL, Firebase
-- Tools: Git, Docker, Kubernetes, MCP
-- Cloud: AWS, Google Cloud Platform
-- AI Tools: Cursor, Windsurf
+- Programming Languages: Python, TypeScript, Java, C++, Lisp (Racket, ACL2s), Go
+- Web Development: HTML, CSS, React, Node.js, Express, nginx + many more
+- Databases: MySQL, Firebase, Prisma, Supabase
+- Tools: Git, Docker, Kubernetes, MCP + many more
+- Cloud: AWS, GCP
+- AI Tools: Cursor and Windsurf
 
 ## 📫 Contact Me
 
 Feel free to reach out to me via [email](mailto:arraje.n@northeastern.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/nicoarraje/). I'm always open to new opportunities and collaborations.
-
-Thanks for visiting my profile!
