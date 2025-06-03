@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Nico!
+# Nico Arraje
 
 ## 💻 Computer Science Student 
 
@@ -51,15 +51,9 @@ I'm passionate about turning ideas into reality through code. As a Computer Scie
 
 ## 🚀 Featured Projects
 
-<!-- You can replace these with your actual projects -->
 - **[Trump-Trader]** - An automated market trader that utilizes a headless browser to monitor Donald Trumps truthsocial feed. Posts are reviewed by an LLM and given a market impact score (this targets ETFs) which is then used to calculate a trade using a bankroll. Then through our brokerage api a trade is made.
   
 - I have worked on a lot of other smaller projects for school, and am currently cooking some things up. Additionally, a lot of my projects have come from my work, which is private. 
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=narraje&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=narraje&layout=compact&theme=radical)
 
 ## 🌱 Currently Learning
 
