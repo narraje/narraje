@@ -1,18 +1,7 @@
 # Nico Arraje
 
 ## 💻 Computer Science Student 
-
-I'm passionate about turning ideas into reality through code. As a Computer Science student, I thrive on challenges that push my technical boundaries.
-
 > I innovate, build, and implement.
-
-## 🎯 About Me
-
-- 🎓 Currently pursuing a degree in Computer Science
-- 🚀 Focused on building scalable and efficient solutions
-- 🌱 Always learning new technologies and frameworks
-- 🔍 Interested in [Getting things done 💯]
-- 💡 Love collaborating on innovative projects
 
 ## 🛠️ Technologies & Tools
 
