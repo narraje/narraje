@@ -51,5 +51,5 @@
 
 ## 📫 Contact Me
 
-Feel free to reach out to me via [Email](mailto:arraje.n@northeastern.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/narraje). I'm always open to new opportunities and collaborations!
+Feel free to reach out to me via [Email](arraje.n@northeastern.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/nicoarraje/). I'm always open to new opportunities and collaborations!
 
